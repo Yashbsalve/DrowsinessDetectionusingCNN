@@ -6,7 +6,7 @@ use python 3.9+
 pip install flask opencv-python torch torchvision numpy
 
 
-## 📸 Dataset Preparation
+# Dataset Preparation
 
 1. Create a folder named `eye_dataset` in your root directory.
 2. Inside it, create two folders: `open/` and `close/`.
@@ -18,7 +18,7 @@ This dataset will be used to train the CNN model.
 
 ---
 
-## 🏋️‍♂️ Train the Model
+##  Train the Model
 
 Run the model training script:
 
